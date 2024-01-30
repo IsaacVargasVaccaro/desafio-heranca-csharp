@@ -1,0 +1,14 @@
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.AssemblyInfoInputs.cache
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.AssemblyInfo.cs
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.csproj.CoreCompileInputs.cache
+C:\Projetos\desafio-heranca-csharp\bin\Debug\net8.0\desafio-heranca-csharp.exe
+C:\Projetos\desafio-heranca-csharp\bin\Debug\net8.0\desafio-heranca-csharp.deps.json
+C:\Projetos\desafio-heranca-csharp\bin\Debug\net8.0\desafio-heranca-csharp.runtimeconfig.json
+C:\Projetos\desafio-heranca-csharp\bin\Debug\net8.0\desafio-heranca-csharp.dll
+C:\Projetos\desafio-heranca-csharp\bin\Debug\net8.0\desafio-heranca-csharp.pdb
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.dll
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\refint\desafio-heranca-csharp.dll
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.pdb
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\desafio-heranca-csharp.genruntimeconfig.cache
+C:\Projetos\desafio-heranca-csharp\obj\Debug\net8.0\ref\desafio-heranca-csharp.dll
